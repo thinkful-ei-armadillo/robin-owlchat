@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the UI as expected 1`] = `
+<app
+  chatEvents={
+    Array [
+      Object {
+        "message": "Hello world",
+        "participantId": 3,
+        "time": 1548852646559,
+        "timestamp": 1548852484247,
+        "type": "message",
+      },
+    ]
+  }
+  participants={
+    Array [
+      Object {
+        "avatar": "https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1",
+        "id": 5,
+        "inSession": true,
+        "name": "Ashla Attwool",
+        "onStage": true,
+      },
+    ]
+  }
+/>
+`;

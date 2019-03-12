@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the UI as expected 1`] = `
+<div
+  className="stage hidden"
+>
+  <div
+    className="contact-on-stage"
+    data-tooltip="sdfff"
+  >
+    <div
+      className="contact-on-stage-video-container"
+    >
+      <img
+        alt="sdfff"
+        className="user-avatar contact-on-stage-avatar"
+        src="https"
+      />
+      <div
+        className="contact-on-stage-details"
+      >
+        <span
+          className="contact-on-stage-details-text"
+        >
+          sdfff
+        </span>
+        <button
+          className="contact-on-stage-details-button"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

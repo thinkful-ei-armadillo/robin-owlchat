@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the UI as expected 1`] = `
+<div
+  className="chat"
+>
+  <div
+    className="messages"
+  >
+    <span
+      className="chat-time-indicator"
+      data-type-timestamp={123344}
+    />
+    <div
+      className="view"
+    >
+      <p>
+        hi
+      </p>
+    </div>
+    <div
+      className="hidden"
+    >
+      <strong />
+      "gave a 
+      
+      "
+      <span
+        className="message"
+        name="message"
+      />
+    </div>
+  </div>
+</div>
+`;
